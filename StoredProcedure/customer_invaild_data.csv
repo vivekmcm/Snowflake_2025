@@ -1,0 +1,11 @@
+C_CUSTKEY,C_NAME,C_ADDRESS,C_NATIONKEY,C_PHONE,C_ACCTBAL,C_MKTSEGMENT,C_COMMENT
+1,Customer#000000001,Address1,15,25-989-741-2988,711.56,AUTOMOBILE,Customer loves prompt delivery.
+2,Customer#000000002,Address2,13,13-456-234-1111,121.65,BUILDING,Prefers eco-friendly packaging.
+2,Customer#000000002,Address2,13,,121.65,BUILDING,Prefers eco-friendly packaging.
+4,Customer#000000004,Address4,4,4-321-654-7777,7498.12,FURNITURE,Complains about delay.
+5,Customer#000000005,Address5,6,6-789-123-8888,2866.83,MACHINERY,Happy with service.
+6,Customer#000000006,Address6,2,,794.47,AUTOMOBILE,Requests monthly billing.
+7,Customer#000000007,Address7,7,7-111-222-3333,763.45,FURNITURE,Prefers email contact.
+8,Customer#000000008,Address8,18,18-999-000-1234,9561.45,BUILDING,Wants SMS notifications.
+9,Customer#000000009,Address9,1,,398.99,MACHINERY,Needs bulk discount.
+10,Customer#000000010,Address10,3,3-555-666-7777,2847.99,AUTOMOBILE,Very satisfied.

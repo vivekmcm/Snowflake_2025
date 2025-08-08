@@ -1,0 +1,11 @@
+C_CUSTKEY,C_NAME,C_ADDRESS,C_NATIONKEY,C_PHONE,C_ACCTBAL,C_MKTSEGMENT,C_COMMENT
+101, Cust#001,Home_Address1 ,10000000001,2988111,551711.56,AUTOMOBILE  ,Customer loves prompt delivery.
+102, Cust#002,Home_Address2 ,10000000002,1111111,551121.65,BUILDING    ,Prefers eco-friendly packaging.
+103, Cust#002,Home_Address2 ,10000000003,1111111,551121.65,BUILDING    ,Prefers eco-friendly packaging.
+104, Cust#004,Home_Address4 ,10000000004,7777111,551498.12,FURNITURE   ,Complains about delay.
+105, Cust#005,Home_Address5 ,10000000005,8888111,551866.83,MACHINERY   ,Happy with service.
+106, Cust#006,Home_Address6 ,10000000006,5555111,551794.47,AUTOMOBILE  ,Requests monthly billing.
+107, Cust#007,Home_Address7 ,10000000007,3333111,551763.45,FURNITURE   ,Prefers email contact.
+108, Cust#008,Home_Address8 ,10000000008,1234111,551561.45,BUILDING    ,Wants SMS notifications.
+109, Cust#009,Home_Address9 ,10000000009,1111111,551398.99,MACHINERY   ,Needs bulk discount.
+110,Cust#010,Home_Address10,10000000010,5555111,551847.99,AUTOMOBILE   ,Very satisfied.
